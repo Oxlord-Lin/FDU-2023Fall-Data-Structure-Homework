@@ -1,0 +1,23 @@
+\contentsline {paragraph}{摘要}{1}{section*.1}%
+\contentsline {section}{\numberline {1}文件简介与项目结构说明}{1}{section.1}%
+\contentsline {section}{\numberline {2}binarySearchTree.py文件的主要功能介绍}{3}{section.2}%
+\contentsline {section}{\numberline {3}RedBlackTree.py文件的主要功能介绍}{3}{section.3}%
+\contentsline {section}{\numberline {4}BTree.py文件的主要函数功能介绍}{4}{section.4}%
+\contentsline {section}{\numberline {5}操作时间分析}{5}{section.5}%
+\contentsline {subsection}{\numberline {5.1}红黑树操作时间分析}{5}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}B树操作时间分析}{6}{subsection.5.2}%
+\contentsline {section}{\numberline {6}GUI功能简介与防错机制}{8}{section.6}%
+\contentsline {paragraph}{启动GUI}{8}{section*.3}%
+\contentsline {paragraph}{选择建立红黑树/B树}{9}{section*.4}%
+\contentsline {paragraph}{导入并执行测试文件}{9}{section*.5}%
+\contentsline {paragraph}{添加新单词}{10}{section*.6}%
+\contentsline {paragraph}{删除单词}{10}{section*.7}%
+\contentsline {paragraph}{查询单词}{10}{section*.8}%
+\contentsline {paragraph}{按照给定范围查询单词}{11}{section*.9}%
+\contentsline {section}{\numberline {7}创新点：结合词典实际情况，重新设计单词排列顺序}{11}{section.7}%
+\contentsline {section}{\numberline {8}附录：B树的初始化耗时记录}{11}{section.8}%
+\contentsline {paragraph}{t=5}{11}{section*.10}%
+\contentsline {paragraph}{t=10}{11}{section*.11}%
+\contentsline {paragraph}{t=15}{12}{section*.12}%
+\contentsline {paragraph}{t=20}{12}{section*.13}%
+\contentsline {paragraph}{t=25}{12}{section*.14}%

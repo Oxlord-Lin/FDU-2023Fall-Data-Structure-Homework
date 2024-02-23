@@ -1,0 +1,133 @@
+\documentclass{article}
+\usepackage[UTF8]{ctex}
+% Replace `letterpaper' with`a4paper' for UK/EU standard size
+\usepackage[a4paper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+
+% Useful packages
+\usepackage{amsmath}
+\usepackage{mathrsfs,amsmath}
+\usepackage{graphicx}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+\usepackage{graphicx} %插入图片的宏包
+\usepackage{float} %设置图片浮动位置的宏包
+\usepackage{subfigure} %插入多图时用子图显示的宏包
+\usepackage{parskip}
+\usepackage{indentfirst} 
+\setlength{\parindent}{2em}
+\usepackage{hyperref}  
+\usepackage{tikz}
+\allowdisplaybreaks
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage{amsfonts,amssymb} 
+\usepackage{xcolor} % 用于显示颜色
+\usepackage{listings} % 用于插入代码
+\lstset{
+	basicstyle          =   \sffamily,          % 基本代码风格
+	keywordstyle        =   \bfseries,          % 关键字风格
+	commentstyle        =   \rmfamily\itshape,  % 注释的风格，斜体
+	stringstyle         =   \ttfamily,  % 字符串风格
+	flexiblecolumns,                % 别问为什么，加上这个
+	numbers             =   left,   % 行号的位置在左边
+	showspaces          =   false,  % 是否显示空格，显示了有点乱，所以不现实了
+	numberstyle         =   \zihao{-5}\ttfamily,    % 行号的样式，小五号，tt等宽字体
+	showstringspaces    =   false,
+	captionpos          =   t,      % 这段代码的名字所呈现的位置，t指的是top上面
+	frame               =   lrtb,   % 显示边框
+}
+
+\lstdefinestyle{Python}{
+	language        =   Python, % 语言选Python
+	basicstyle      =   \zihao{-5}\ttfamily,
+	numberstyle     =   \zihao{-5}\ttfamily,
+	keywordstyle    =   \color{blue},
+	keywordstyle    =   [2] \color{teal},
+	stringstyle     =   \color{magenta},
+	commentstyle    =   \color{red}\ttfamily,
+	breaklines      =   true,   % 自动换行，建议不要写太长的行
+	columns         =   fixed,  % 如果不加这一句，字间距就不固定，很丑，必须加
+	basewidth       =   0.5em,
+}
+
+\title{数据结构 Lab-7 报告}
+\author{林子开 21307110161}
+\begin{document}
+	\maketitle
+	\tableofcontents
+
+\section{基于深度搜索的拓扑排序}
+
+\paragraph{算法思路}
+对有向无环图进行深度搜索，深度搜索采用递归的方式完成。
+记录每个节点的开始探索时间$t_{start}$和结束时间$t_{finish}$，按照结束时间$t_{finish}$
+\textbf{逆序排列}，则得到各个节点的拓扑排序结果。
+该算法已经在文件\texttt{exercise-1.py}文件中实现，敬请参阅。
+
+\paragraph{实验结果}
+对助教提供的课程关系图进行拓扑排序，修读的顺序如下（该结果不唯一）：
+
+Discrete Mathematics$\;\rightarrow\;$Calculus$\;\rightarrow\;$
+Probability and Statistics$\;\rightarrow\;$Computer Systems$\;\rightarrow\;$
+Computer Network$\;\rightarrow\;$Computer Architecture$\;\rightarrow\;$
+Database$\;\rightarrow\;$Java or C+$\;\rightarrow\;$Data Structure and Algorithm$\;\rightarrow\;$
+Object Oriented Programming$\;\rightarrow\;$Software Engineering$\;\rightarrow\;$
+Intelligent Systems$\;\rightarrow\;$Project Management$\;\rightarrow\;$Web Application$\;\rightarrow\;$
+ALL COURSES$\;\rightarrow\;$Internship$\;\rightarrow\;$Thesis
+
+\section{利用深度搜索解决过河问题}
+\paragraph{建立有向图模型}
+用一个四元组$[w,g,c,f]$表示狼、羊、菜、人的位置，取$0$表示在左岸，取$1$表示在右岸。
+以所有四元组作为图的节点。该图有$2^4=16$个节点，但其中存在不安全的节点，即人不在场的情况下，狼吃羊或羊吃菜的节点。
+不安全的节点出度为零，即不会指向任何其他节点。
+问题的起点为$[0,0,0,0]$，终点是$[1,1,1,1]$。每次要么单独改变人的位置，要么在狼、羊、菜（前提是与人在同一侧）中
+选择一个和人一起过河，因此从每个节点出发，最多有四个可能的邻接节点。此外，注意到该图中存在环，我们要求，
+输出的所有可能解中\textbf{不能存在环}，否则可行解将有无穷多个。
+
+\paragraph{算法描述}
+基于栈实现深度优先搜索。每次从栈中弹出一个节点，不妨记为$N$，先检查节点$N$是否为终点，如果是终点，则打印路径。
+如果不是终点，找出节点$N$的\textbf{所有安全的}邻接节点，记为集合$\{adj_k(N)\}$。对集合中的元素$adj_k(N)$依次检查，
+若从起点开始到$adj_k(N)$的路径\textbf{出现了环}，则忽略$adj_k(N)$；\textbf{若没有出现环}，
+则将$adj_k(N)$以及从起点到$adj_k(N)$的路径一起压入栈中，这样可以便于之后检查路径中是否出现环。
+简而言之，\textbf{每个压入栈中的节点，都是既安全、而且不会造成路径出现环的节点。}
+该算法已经在文件\texttt{exercise-2.py}文件中实现，敬请参阅。
+
+\paragraph{实验结果}
+对过河问题进行求解，得到以下两种解法：
+
+[0, 0, 0, 0]$\;\rightarrow\;$[0, 1, 0, 1]$\;\rightarrow\;$[0, 1, 0, 0]$\;\rightarrow\;$[0, 1, 1, 1]$\;\rightarrow\;$[0, 0, 1, 0]$\;\rightarrow\;$[1, 0, 1, 1]$\;\rightarrow\;$[1, 0, 
+1, 0]$\;\rightarrow\;$[1, 1, 1, 1]。 
+对该解法进行文字说明：人先把羊带到右岸，人独自回到左岸，人把菜带到右岸，人把羊带回左岸，人把狼带到右岸，人独自回到左岸，人把羊带到右岸。
+
+[0, 0, 0, 0]$\;\rightarrow\;$[0, 1, 0, 1]$\;\rightarrow\;$[0, 1, 0, 0]$\;\rightarrow\;$[1, 1, 0, 1]$\;\rightarrow\;$[1, 0, 0, 0]$\;\rightarrow\;$[1, 0, 1, 1]$\;\rightarrow\;$[1, 0, 
+1, 0]$\;\rightarrow\;$[1, 1, 1, 1]。 
+对该解法进行文字说明：人先把羊带到右岸，人独自回到左岸，人把狼带到右岸，人把羊带回左岸，人把菜带到右岸，人独自回到左岸，人把羊带到右岸。
+\end{document}
+
+% \begin{figure}[H]
+% 	\centering
+% 	{\includegraphics[width=0.35\textwidth]{image//ignorance.png}} 
+% 	\caption{} \label{} 
+% \end{figure}
+
+
+% \lstinputlisting[style = Python,
+% caption={Python codes},
+% label = {efficient},
+% linerange={110-125}]{exercise3.py} 
+
+
+% \begin{figure}[H]
+%     \centering
+%     \subfigure[patch size = 11]
+%     {\label{} \includegraphics[width=0.49\textwidth]{image//local equalization with patch size = 11.jpg}}
+%     \,    
+%     \subfigure[patch size = 51]
+%     {\label{} \includegraphics[width=0.49\textwidth]{image//local equalization with patch size = 51.jpg}}
+%     \,
+%     \subfigure[patch size = 151]
+%     {\label{} \includegraphics[width=0.49\textwidth]{image//local equalization with patch size = 151.jpg}}
+%     \,    
+%     \subfigure[patch size = 201]
+%     {\label{} \includegraphics[width=0.49\textwidth]{image//local equalization with patch size = 201.jpg}}
+%     \caption{local equalization with different patch sizes}\label{} 
+% \end{figure}

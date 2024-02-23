@@ -1,0 +1,25 @@
+level=0   child=0   dog           (BLACK)
+level=1   child=0   blue          (BLACK)
+level=2   child=0   apple         (BLACK)
+level=3   child=0   null          
+level=3   child=1   null          
+level=2   child=1   cat           (BLACK)
+level=3   child=0   null          
+level=3   child=1   null          
+level=1   child=1   hat           (BLACK)
+level=2   child=0   fox           (RED)
+level=3   child=0   elephant      (BLACK)
+level=4   child=0   null          
+level=4   child=1   null          
+level=3   child=1   goal          (BLACK)
+level=4   child=0   null          
+level=4   child=1   null          
+level=2   child=1   jail          (RED)
+level=3   child=0   inn           (BLACK)
+level=4   child=0   null          
+level=4   child=1   null          
+level=3   child=1   kite          (BLACK)
+level=4   child=0   null          
+level=4   child=1   lemon         (RED)
+level=5   child=0   null          
+level=5   child=1   null          

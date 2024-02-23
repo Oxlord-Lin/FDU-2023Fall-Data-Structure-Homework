@@ -1,0 +1,707 @@
+level=0  	child=0  	bughunter     
+level=1  	child=0  	africanize    	/	amputation    	/	antinode      	/	asbestus      	/	authoress     	/	bassing       	/	bethink       	/	bookplate     
+level=2  	child=0  	abettor       	/	absurdism     	/	acetabuliform 	/	acquiescence  	/	aculeus       	/	adjectival    	/	advantageous  	/	afar          
+level=3  	child=0  	abacus        	/	abask         	/	abbreviator   	/	abductor      
+level=4  	child=0  	aaronic       	/	abacist       	/	aback         	/	abactinal     
+level=4  	child=1  	abandonment   	/	abas          	/	abase         	/	abasement     
+level=4  	child=2  	abatement     	/	abaxial       	/	abaya         	/	abba          
+level=4  	child=3  	abd           	/	abdiel        	/	abdomen       	/	abdominal     
+level=4  	child=4  	abel          	/	abernethy     	/	aberrant      	/	aberration    
+level=3  	child=1  	abnegate      	/	abrim         	/	absinth       	/	absolve       	/	absquatulation
+level=4  	child=0  	abiogenesis   	/	abiosis       	/	ablactate     	/	ablactation   	/	ablate        	/	ablatival     	/	ablution      
+level=4  	child=1  	abnegation    	/	abolisher     	/	abortus       	/	abrasion      
+level=4  	child=2  	abscessed     	/	abscissa      	/	absentation   	/	absentmindedly
+level=4  	child=3  	absinthin     	/	absinthine    	/	absolutization	/	absolvable    
+level=4  	child=4  	absolvent     	/	absord        	/	absorption    	/	absquatulater 
+level=4  	child=5  	abstention    	/	abstentious   	/	abstersion    	/	abstraction   
+level=3  	child=2  	accelerated   	/	accessable    	/	accompanist   	/	accumbent     
+level=4  	child=0  	abundantly    	/	abutting      	/	abyss         	/	academical    	/	academicals   	/	acalycine     	/	acantha       	/	accelerant    
+level=4  	child=1  	acceleration  	/	accelerometer 	/	acceptability 	/	acceptation   
+level=4  	child=2  	accessibly    	/	accidence     	/	acclivous     	/	accommodator  
+level=4  	child=3  	accordable    	/	accordant     	/	according     	/	accordionist  	/	accostable    	/	accouche      	/	accountantship	/	accretion     
+level=4  	child=4  	accusant      	/	accused       	/	accuser       	/	accusingly    	/	accustom      	/	aceraceous    	/	acescent      	/	acestoma      
+level=3  	child=3  	achromatopsia 	/	acidimeter    	/	acknowledged  	/	acoumeter     
+level=4  	child=0  	acetanilide   	/	achromate     	/	achromatophil 	/	achromatophilia
+level=4  	child=1  	achromatopsy  	/	achromobacter 	/	achy          	/	acidifier     
+level=4  	child=2  	acidophilic   	/	acidproof     	/	aciduric      	/	aciform       
+level=4  	child=3  	acknowledgedly	/	acold         	/	aconitine     	/	acotyledonous 
+level=4  	child=4  	acousma       	/	acoustician   	/	acousticon    	/	acoustics     
+level=3  	child=4  	acrobatism    	/	actin         	/	actinograph   	/	activated     
+level=4  	child=0  	acquittal     	/	acranial      	/	acridness     	/	acrobatics    
+level=4  	child=1  	acrogen       	/	acrogenous    	/	acryl         	/	actable       
+level=4  	child=2  	actinicity    	/	actinium      	/	actinochemistry	/	actinogram    
+level=4  	child=3  	actinomycete  	/	actinomycin   	/	actinomycosis 	/	actionable    
+level=4  	child=4  	activating    	/	activize      	/	actress       	/	actuator      
+level=3  	child=5  	adamant       	/	adaxial       	/	additament    	/	adeni         
+level=4  	child=0  	acupuncturist 	/	acusection    	/	adae          	/	adagiettos    
+level=4  	child=1  	adams         	/	adaptability  	/	adapted       	/	adaptive      
+level=4  	child=2  	adcolumn      	/	addible       	/	addictive     	/	adding        
+level=4  	child=3  	additionally  	/	ade           	/	adela         	/	adenectomy    
+level=4  	child=4  	adequately    	/	adhesion      	/	adhibit       	/	adjacency     
+level=3  	child=6  	admonition    	/	adorn         	/	adsorbate     	/	adulteress    
+level=4  	child=0  	adjective     	/	adjustability 	/	adjustable    	/	adjusted      	/	adjutancy     	/	adjutantship  	/	adlittoral    	/	admissive     
+level=4  	child=1  	admonitory    	/	adoptability  	/	adopter       	/	adorably      
+level=4  	child=2  	adrate        	/	adrip         	/	adsorbability 	/	adsorbable    
+level=4  	child=3  	adsorption    	/	adsorptive    	/	adsum         	/	adulatory     
+level=4  	child=4  	adulthood     	/	adumbration   	/	adust         	/	advancer      
+level=3  	child=7  	adverb        	/	aeolipile     	/	aeromechanics 	/	aeronef       	/	aerosiderite  	/	aerotherapeutics	/	aesopian      
+level=4  	child=0  	advection     	/	adventurer    	/	adventuresome 	/	adventurously 
+level=4  	child=1  	adverbially   	/	advisability  	/	advisably     	/	adynamic      
+level=4  	child=2  	aeonian       	/	aeration      	/	aerator       	/	aerography    	/	aerolite      	/	aerolith      	/	aerolitics    	/	aeromap       
+level=4  	child=3  	aeromedicine  	/	aeromodelling 	/	aeronautic    	/	aeronautical  
+level=4  	child=4  	aerophore     	/	aerophyte     	/	aeroplane     	/	aeroplanist   
+level=4  	child=5  	aerosiderolite	/	aerospace     	/	aerosphere    	/	aerostat      
+level=4  	child=6  	aerothermoacoustics	/	aerotrack     	/	aerotransport 	/	aerotropic    
+level=4  	child=7  	aesthetician  	/	aestheticism  	/	aesthetism    	/	aestival      
+level=3  	child=8  	afferent      	/	afforce       	/	affreighter   	/	aforenamed    
+level=4  	child=0  	afebrile      	/	affably       	/	affectively   	/	affectlessness
+level=4  	child=1  	afferently    	/	affiche       	/	affirmable    	/	affirmatively 
+level=4  	child=2  	afforcement   	/	afford        	/	afforest      	/	affreight     
+level=4  	child=3  	affreightment 	/	affuse        	/	affusion      	/	afghanistani  
+level=4  	child=4  	afreet        	/	africa        	/	africander    	/	africanization
+level=2  	child=1  	aglossal      	/	airmail       	/	alleviant     	/	ambit         	/	amnesia       
+level=3  	child=0  	aftermentioned	/	agatha        	/	aggiornamento 	/	aggro         
+level=4  	child=0  	aft           	/	afterbrain    	/	aftergrowth   	/	afterhours    
+level=4  	child=1  	aftershock    	/	afterwar      	/	afterwit      	/	afterword     
+level=4  	child=2  	agazed        	/	agendum       	/	agenesis      	/	agential      
+level=4  	child=3  	agglomerative 	/	agglutinogenic	/	aggradation   	/	aggradational 
+level=4  	child=4  	agha          	/	agilely       	/	agitative     	/	agitator      
+level=3  	child=1  	agressire     	/	aileen        	/	airboat       	/	airflow       
+level=4  	child=0  	agonist       	/	agraffe       	/	agrarianize   	/	agress        
+level=4  	child=1  	agrostology   	/	agued         	/	aha           	/	aiguillette   
+level=4  	child=2  	aileron       	/	ailurophilia  	/	aimer         	/	airbag        
+level=4  	child=3  	aircraft      	/	airfare       	/	airfield      	/	airfight      
+level=4  	child=4  	airframe      	/	airfreighter  	/	airlike       	/	airline       
+level=3  	child=2  	ajutage       	/	alas          	/	alchemist     	/	alembic       	/	algebrist     	/	alibility     	/	alkekengi     
+level=4  	child=0  	airpark       	/	airplane      	/	airscrew      	/	airslake      	/	airspeed      	/	airstrip      	/	airways       	/	airworthiness 
+level=4  	child=1  	alabandite    	/	alan          	/	alarmism      	/	alary         
+level=4  	child=2  	albeit        	/	albumenize    	/	alcazar       	/	alchemic      
+level=4  	child=3  	alcohol       	/	alcoholicity  	/	alcoholism    	/	alcula        
+level=4  	child=4  	alfine        	/	algal         	/	algebra       	/	algebraist    
+level=4  	child=5  	algetic       	/	algologist    	/	algometry     	/	algous        
+level=4  	child=6  	alienable     	/	alienate      	/	alienee       	/	alienor       	/	alimentation  	/	alimentotherapy	/	alkalinization
+level=4  	child=7  	alkyne        	/	allan         	/	allegedly     	/	allegory      
+level=3  	child=3  	allness       	/	allotment     	/	almighty      	/	alpeen        	/	alternating   	/	altostratus   	/	alveolitis    	/	amberfish     
+level=4  	child=0  	alleviation   	/	alleviator    	/	alliteration  	/	allium        
+level=4  	child=1  	allochroic    	/	allodiality   	/	allodially    	/	allotheism    
+level=4  	child=2  	allseed       	/	allure        	/	alluring      	/	almightiness  
+level=4  	child=3  	almsgiver     	/	alogical      	/	alors         	/	aloud         
+level=4  	child=4  	alpenhorn     	/	alphametic    	/	alpheus       	/	alptop        	/	already       	/	also          	/	alter         	/	alterant      
+level=4  	child=5  	altimeter     	/	altiplano     	/	altissimo     	/	altocumulus   
+level=4  	child=6  	alum          	/	aluminothermy 	/	aluminum      	/	alutaceous    
+level=4  	child=7  	amaze         	/	ambary        	/	ambassador    	/	ambeer        
+level=4  	child=8  	amberjack     	/	amberoid      	/	ambidexterity 	/	ambilateral   
+level=3  	child=4  	ameliorable   	/	amerenglish   	/	ametabolic    	/	aminate       
+level=4  	child=0  	ambiversion   	/	amblyopia     	/	ambulant      	/	ambulate      
+level=4  	child=1  	ameliorant    	/	amendable     	/	amentia       	/	amerciable    
+level=4  	child=2  	americanese   	/	americanisation	/	americanization	/	americanize   
+level=4  	child=3  	amicably      	/	amice         	/	amiga         	/	amigo         
+level=4  	child=4  	amine         	/	ammeter       	/	ammocete      	/	ammonium      
+level=3  	child=5  	amortise      	/	amperage      	/	amphictyony   	/	amplification 
+level=4  	child=0  	amniotin      	/	amole         	/	amoretto      	/	amorism       
+level=4  	child=1  	amortisement  	/	amortize      	/	amortizement  	/	amotivational 
+level=4  	child=2  	ampere        	/	amperehour    	/	amphiarthrosis	/	amphibious    
+level=4  	child=3  	amphioxus     	/	amphiphyte    	/	amphoteric    	/	amplectant    
+level=4  	child=4  	amplificatory 	/	amplitudinous 	/	ampulla       	/	ampullaceous  
+level=2  	child=2  	anaplasty     	/	anesthetist   	/	annulation    	/	anteport      
+level=3  	child=0  	amylolysis    	/	anabas        	/	anaesthetise  	/	analyser      
+level=4  	child=0  	amuck         	/	amulet        	/	amusing       	/	amygdule      
+level=4  	child=1  	amylopsin     	/	amylum        	/	amyotonia     	/	amyotrophia   
+level=4  	child=2  	anabranch     	/	anachronism   	/	anaesthesiologist	/	anaesthetics  
+level=4  	child=3  	anaesthetist  	/	anagenesis    	/	anagrammatism 	/	analogism     
+level=4  	child=4  	analyzing     	/	ananas        	/	anandrous     	/	ananym        
+level=3  	child=1  	ancipital     	/	andirons      	/	anecdotage    	/	anemophily    
+level=4  	child=0  	anba          	/	anchithere    	/	anchoress     	/	anchovy       
+level=4  	child=1  	ancress       	/	andaman       	/	andersen      	/	andesite      
+level=4  	child=2  	androecium    	/	android       	/	andrology     	/	androphagous  
+level=4  	child=3  	anecdotical   	/	anelasticity  	/	anemology     	/	anemometry    
+level=4  	child=4  	anemoscope    	/	anent         	/	anesthesiologist	/	anesthesiology
+level=3  	child=2  	angelet       	/	angelology    	/	angler        	/	anguilliform  	/	animalize     	/	ankyloglossia 	/	annam         	/	annotator     
+level=4  	child=0  	aneuploid     	/	aneurism      	/	aneurysm      	/	anew          
+level=4  	child=1  	angelica      	/	angelically   	/	angelologic   	/	angelological 
+level=4  	child=2  	angelophany   	/	angiosperm    	/	angled        	/	anglepod      
+level=4  	child=3  	anglistics    	/	anglo         	/	anglophobe    	/	angrily       
+level=4  	child=4  	angular       	/	anhinga       	/	anhydride     	/	anhydrous     	/	anigh         	/	anility       	/	animal        	/	animalcule    
+level=4  	child=5  	anime         	/	anion         	/	anisette      	/	ankle         
+level=4  	child=6  	anlace        	/	anna          	/	annal         	/	annalistic    
+level=4  	child=7  	annealing     	/	annexation    	/	anniversary   	/	annoit        
+level=4  	child=8  	announceable  	/	announcing    	/	annuities     	/	annularly     
+level=3  	child=3  	anonymous     	/	antares       	/	antelucan     	/	antennal      
+level=4  	child=0  	annuli        	/	annulose      	/	annulus       	/	annum         
+level=4  	child=1  	anorthic      	/	anourous      	/	anta          	/	antarctica    
+level=4  	child=2  	antebrachium  	/	antechamber   	/	antehall      	/	antelope      
+level=4  	child=3  	antemarital   	/	antemeridian  	/	antemortem    	/	antenna       
+level=4  	child=4  	antennate     	/	antennule     	/	antenuptial   	/	anteporch     
+level=3  	child=4  	anthophagy    	/	anthropology  	/	antiaircraft  	/	antibiosis    	/	anticline     	/	antidraft     	/	antihuman     
+level=4  	child=0  	anteprohibition	/	antetype      	/	antewar       	/	anthelion     	/	anther        	/	antheral      	/	anthography   	/	anthologize   
+level=4  	child=1  	anthracite    	/	anthrop       	/	anthropolatry 	/	anthropologic 
+level=4  	child=2  	anthroponym   	/	anthropophagous	/	anthropophagy 	/	anthroposophy 
+level=4  	child=3  	antianxity    	/	antiauxin     	/	antiballistic 	/	antibilious   
+level=4  	child=4  	antiblack     	/	antibody      	/	anticaries    	/	anticipative  
+level=4  	child=5  	anticompetitive	/	anticorrosive 	/	anticyclonic  	/	antidotal     
+level=4  	child=6  	antifeudal    	/	antiforeign   	/	antigropelos  	/	antihelix     
+level=4  	child=7  	antilope      	/	antimacassar  	/	antimagnetic  	/	antimatter    	/	antimechanized	/	antimonsoon   	/	antimony      	/	antineutron   
+level=2  	child=3  	apheliotropic 	/	appertain     	/	archeological 	/	armguard      	/	arteritis     
+level=3  	child=0  	antiparallel  	/	antiphrasis   	/	antiserum     	/	antitheist    	/	antonomasia   	/	anywise       	/	aperitif      
+level=4  	child=0  	antinoise     	/	antinomy      	/	antinucleon   	/	antiozonant   
+level=4  	child=1  	antipasto     	/	antipatriotic 	/	antipersonnel 	/	antiphonary   
+level=4  	child=2  	antiproton    	/	antipsychotic 	/	antiquated    	/	antiresonance 
+level=4  	child=3  	antiskid      	/	antispeculation	/	antisymmetric 	/	antitheism    
+level=4  	child=4  	antithesis    	/	antitoxic     	/	antitoxin     	/	antivirus     
+level=4  	child=5  	antonym       	/	antonymy      	/	anus          	/	anxiolytic    	/	anyone        	/	anyplace      	/	anything      	/	anywhere      
+level=4  	child=6  	anzam         	/	anzuk         	/	aorta         	/	apanage       	/	apatite       	/	apepsia       	/	aperiodically 	/	aperiodicity  
+level=4  	child=7  	apetalous     	/	apex          	/	aphasia       	/	aphasiology   
+level=3  	child=1  	aphorist      	/	apiculus      	/	apodosis      	/	apoise        	/	apostolic     
+level=4  	child=0  	aphemia       	/	aphemic       	/	aphis         	/	aphlogistic   
+level=4  	child=1  	aphrodisia    	/	apian         	/	apiarist      	/	apiculture    
+level=4  	child=2  	apiology      	/	aplite        	/	apocarpy      	/	apodia        
+level=4  	child=3  	apogean       	/	apogee        	/	apogeotropism 	/	apograph      
+level=4  	child=4  	apolaustic    	/	apologized    	/	apologizer    	/	aposematic    
+level=4  	child=5  	appal         	/	apparente     	/	apparently    	/	appealable    	/	appeasement   	/	appeaser      	/	appellor      	/	appendicle    
+level=3  	child=2  	apposite      	/	apprehensibility	/	aquaculture   	/	arabization   	/	archaean      
+level=4  	child=0  	applausively  	/	applecart     	/	applewood     	/	apportion     
+level=4  	child=1  	appositely    	/	appositional  	/	appraise      	/	apprehend     
+level=4  	child=2  	apprehensively	/	apprise       	/	appropriately 	/	approving     	/	appurtenances 	/	apricot       	/	apyrous       
+level=4  	child=3  	aquiclude     	/	aquicolous    	/	aquosity      	/	arabic        
+level=4  	child=4  	aramaic       	/	arbitrable    	/	arbitral      	/	arbitrate     	/	arbitress     	/	arborescent   	/	arborization  	/	arborize      
+level=4  	child=5  	archaeologist 	/	archaeology   	/	archducal     	/	archduke      
+level=3  	child=3  	architecturally	/	arenic        	/	argentum      	/	argyria       	/	arithmetician 	/	armadillo     
+level=4  	child=0  	archeologist  	/	archeology    	/	archery       	/	archetypal    	/	archibald     	/	archiepiscopal	/	archimedes    	/	architect     
+level=4  	child=1  	archpriest    	/	arcograph     	/	arctoid       	/	arcuate       
+level=4  	child=2  	arenose       	/	argentate     	/	argenteous    	/	argentite     
+level=4  	child=3  	argilliferous 	/	argol         	/	argon         	/	argumentatively
+level=4  	child=4  	argyrol       	/	arietta       	/	arigato       	/	aright        	/	arista        	/	aristocrat    	/	arith         	/	arithmetically
+level=4  	child=5  	arithmetization	/	arithmometer  	/	arithograph   	/	armada        
+level=4  	child=6  	armband       	/	armchair      	/	armer         	/	armful        
+level=3  	child=4  	armonica      	/	aromatic      	/	arrear        	/	arterial      
+level=4  	child=0  	armhole       	/	armillary     	/	armlock       	/	armoire       
+level=4  	child=1  	armor         	/	armorist      	/	armpit        	/	armyman       
+level=4  	child=2  	arpeggio      	/	arquebusier   	/	arranging     	/	arrayal       
+level=4  	child=3  	arrestee      	/	arrhizal      	/	arrhythmic    	/	arriero       	/	arrogate      	/	arrowy        	/	arsenotherapy 	/	arsonist      
+level=4  	child=4  	arterialization	/	arteriolar    	/	arteriole     	/	arteriosclerosis
+level=3  	child=5  	arthromere    	/	articular     	/	artificially  	/	arvo          
+level=4  	child=0  	arthral       	/	arthritic     	/	arthritis     	/	arthrology    
+level=4  	child=1  	arthromeric   	/	arthropathy   	/	arthrospore   	/	arthurian     
+level=4  	child=2  	articulation  	/	artifact      	/	artifice      	/	artificialize 
+level=4  	child=3  	artiste       	/	artless       	/	arts          	/	arundinaceous 
+level=4  	child=4  	arytenoidal   	/	asbestiform   	/	asbestoid     	/	asbestoidal   
+level=2  	child=4  	astarboard    	/	astronavigation	/	atonal        	/	audiometer    
+level=3  	child=0  	ascription    	/	aslope        	/	asperse       	/	asphyxiation  	/	assai         	/	assimilable   	/	assort        
+level=4  	child=0  	ascariasis    	/	ascensionist  	/	ascham        	/	ascot         
+level=4  	child=1  	asgard        	/	ashlaring     	/	ashpan        	/	ashtray       	/	asia          	/	asininity     	/	askance       	/	aslant        
+level=4  	child=2  	asonant       	/	aspectant     	/	aspergillum   	/	aspermous     
+level=4  	child=3  	aspersory     	/	asphalt       	/	asphaltic     	/	asphaltite    
+level=4  	child=4  	aspic         	/	aspirate      	/	aspish        	/	aspishly      
+level=4  	child=5  	assailant     	/	assassination 	/	assembler     	/	assemblyman   	/	assertedly    	/	assets        	/	assify        	/	assimilability
+level=4  	child=6  	assimilate    	/	assistor      	/	assizes       	/	assonant      
+level=4  	child=7  	assortment    	/	assuetude     	/	assumable     	/	assurable     
+level=3  	child=1  	asthenia      	/	astonish      	/	astral        	/	astrolatry    
+level=4  	child=0  	astatki       	/	asteraceous   	/	asterisk      	/	asteroidal    
+level=4  	child=1  	asthenosphere 	/	astigmatometry	/	astigmometer  	/	astigmometry  
+level=4  	child=2  	astonishing   	/	astonishment  	/	astrachan     	/	astraddle     
+level=4  	child=3  	astrand       	/	astrict       	/	astride       	/	astringer     
+level=4  	child=4  	astrologer    	/	astromancer   	/	astromancy    	/	astromantic   
+level=3  	child=2  	astrospace    	/	atelic        	/	athletics     	/	atom          
+level=4  	child=0  	astronomer    	/	astronomically	/	astronomy     	/	astropologist 
+level=4  	child=1  	asymmetry     	/	asymptomatic  	/	asymptomatically	/	atacamite     
+level=4  	child=2  	atheism       	/	atheist       	/	athirst       	/	athletic      
+level=4  	child=3  	athwartship   	/	atmology      	/	atmolysis     	/	atmospheric   
+level=4  	child=4  	atomicity     	/	atomics       	/	atomistic     	/	atonable      
+level=3  	child=3  	atrophic      	/	attendant     	/	attila        	/	attribution   
+level=4  	child=0  	atonality     	/	atone         	/	atrip         	/	atroceruleous 
+level=4  	child=1  	atrous        	/	attached      	/	attacker      	/	attainment    
+level=4  	child=2  	attenuable    	/	attenuate     	/	attest        	/	attestation   
+level=4  	child=3  	attire        	/	attitudinize  	/	attractability	/	attractableness
+level=4  	child=4  	atypical      	/	auctorial     	/	audible       	/	audibly       
+level=3  	child=4  	audiphone     	/	aural         	/	aurinasal     	/	austenite     
+level=4  	child=0  	audiometrist  	/	audiotape     	/	audiotyping   	/	audiovisuals  
+level=4  	child=1  	auditing      	/	auger         	/	augmentation  	/	aulic         
+level=4  	child=2  	aurelia       	/	auricle       	/	auricular     	/	auriform      
+level=4  	child=3  	auris         	/	auriscopically	/	aurochs       	/	aurum         
+level=4  	child=4  	australis     	/	autarky       	/	authentic     	/	authenticate  
+level=2  	child=5  	avaunt        	/	baccy         	/	balanceable   	/	banns         	/	barometer     
+level=3  	child=0  	autocollimation	/	autodial      	/	autoff        	/	autoincrement 	/	autolatry     	/	automaticity  	/	autonomy      	/	autotruck     
+level=4  	child=0  	authorial     	/	authorize     	/	autobiographer	/	autobiography 
+level=4  	child=1  	autoconditioning	/	autocorrect   	/	autocrat      	/	autocycle     
+level=4  	child=2  	autodrome     	/	autoeciously  	/	autoeciousness	/	autoecism     
+level=4  	child=3  	autofilter    	/	autogiro      	/	autographical 	/	autographically	/	autogyro      	/	autoharp      	/	autohypnosis  
+level=4  	child=4  	autoinfection 	/	autointoxicant	/	autointoxication	/	autokinetic   
+level=4  	child=5  	autoloading   	/	autolysate    	/	autolysis     	/	automark      
+level=4  	child=6  	automatization	/	automatize    	/	automechanism 	/	autonomous    
+level=4  	child=7  	autoregulation	/	autotoxicosis 	/	autotoxin     	/	autotoxis     
+level=4  	child=8  	autoxidation  	/	auxochrome    	/	availablein   	/	availably     
+level=3  	child=1  	aviatress     	/	avowedly      	/	axiology      	/	axite         	/	azotic        	/	baby          
+level=4  	child=0  	avenger       	/	averment      	/	avert         	/	aviate        
+level=4  	child=1  	avicide       	/	avion         	/	avirulence    	/	avitrice      	/	avoidable     	/	avouch        	/	avow          	/	avowal        
+level=4  	child=2  	await         	/	aweary        	/	aweigh        	/	aweto         	/	axhammer      	/	axil          	/	axinite       	/	axiologist    
+level=4  	child=3  	axiomatic     	/	axiomatize    	/	axisymmetric  	/	axisymmetrical
+level=4  	child=4  	axolotl       	/	axstone       	/	azimuthal     	/	azote         
+level=4  	child=5  	azov          	/	azygous       	/	baas          	/	babbittry     	/	babelism      	/	babesia       	/	baboo         	/	baboosh       
+level=4  	child=6  	bacca         	/	bacchii       	/	bacciferous   	/	bacciform     
+level=3  	child=2  	backlighting  	/	backstair     	/	bacterial     	/	bacteriology  	/	badlands      	/	baffler       	/	bailie        
+level=4  	child=0  	bachelorette  	/	bacillicide   	/	backache      	/	backdate      	/	backdoor      	/	backer        	/	backfire      	/	backkward     
+level=4  	child=1  	backmost      	/	backout       	/	backrest      	/	backscratcher 
+level=4  	child=2  	backwards     	/	bacteremia    	/	bacteremic    	/	bacteremically
+level=4  	child=3  	bactericidal  	/	bactericide   	/	bacteriform   	/	bacteriologist
+level=4  	child=4  	bacteriolysin 	/	bacteriophage 	/	bacteriotherapy	/	bacterium     
+level=4  	child=5  	badminton     	/	badmintoon    	/	badness       	/	baffleplate   
+level=4  	child=6  	bagasse       	/	bagdad        	/	bagful        	/	bagpipe       	/	bagworm       	/	bah           	/	bahadur       	/	baikal        
+level=4  	child=7  	bailor        	/	bairn         	/	bakemeat      	/	bakery        
+level=3  	child=3  	baldly        	/	balladry      	/	ballpoint     	/	balsam        	/	bandbox       	/	bandsaw       
+level=4  	child=0  	balancer      	/	balanoid      	/	balata        	/	balconied     
+level=4  	child=1  	baldpate      	/	baleen        	/	bali          	/	balladeer     
+level=4  	child=2  	ballerina     	/	ballerine     	/	balletomane   	/	ballon        	/	balloon       	/	balloonfish   	/	ballotage     	/	ballplayer    
+level=4  	child=3  	ballroomology 	/	balneation    	/	balneology    	/	balneotherapy 
+level=4  	child=4  	balsamiferous 	/	balsamine     	/	balustrade    	/	bamboo        	/	banc          	/	banco         	/	bandage       	/	bandanna      
+level=4  	child=5  	bandeau       	/	bandit        	/	bandolero     	/	bandore       
+level=4  	child=6  	bangalore     	/	bangbang      	/	bankbook      	/	banking       	/	banknote      	/	bankruptcy    	/	banlieue      	/	bannock       
+level=3  	child=4  	baptismal     	/	barbette      	/	barf          	/	barium        
+level=4  	child=0  	banquet       	/	bantam        	/	bantering     	/	banting       
+level=4  	child=1  	barback       	/	barbara       	/	barbarization 	/	barbate       
+level=4  	child=2  	bard          	/	barebacked    	/	bareboat      	/	barefoot      
+level=4  	child=3  	bariatrics    	/	barilla       	/	barite        	/	baritone      
+level=4  	child=4  	barley        	/	barleycorn    	/	barm          	/	barodynamics  
+level=3  	child=5  	barranco      	/	barroque      	/	basaltic      	/	bashlyk       
+level=4  	child=0  	barometric    	/	barometrical  	/	baronet       	/	barotolerance 
+level=4  	child=1  	barratry      	/	barrelhead    	/	barret        	/	barroom       
+level=4  	child=2  	barrow        	/	barterer      	/	barytes       	/	barytic       
+level=4  	child=3  	bascule       	/	baseless      	/	baseset       	/	bashful       
+level=4  	child=4  	basidiomycete 	/	basilic       	/	basket        	/	basketwork    
+level=2  	child=6  	beautification	/	befringe      	/	bell          	/	benzene       
+level=3  	child=0  	bathrobe      	/	battlefront   	/	battlewagon   	/	bazar         	/	beakiron      	/	bearbaiter    	/	beatism       
+level=4  	child=0  	basswood      	/	bastard       	/	bateau        	/	bateleur      
+level=4  	child=1  	bathsheba     	/	bathybic      	/	batleship     	/	batrachoid    	/	batta         	/	battercake    	/	batteries     	/	battledore    
+level=4  	child=2  	battleground  	/	battlemented  	/	battleplane   	/	battleship    
+level=4  	child=3  	bauble        	/	baudekin      	/	baulk         	/	bawcock       	/	bawdyhouse    	/	bayadere      	/	bayonet       	/	baywreath     
+level=4  	child=4  	beach         	/	beacher       	/	beachscape    	/	beak          
+level=4  	child=5  	beaky         	/	beanpod       	/	beanstalk     	/	bearably      
+level=4  	child=6  	beard         	/	bearward      	/	beatage       	/	beater        
+level=4  	child=7  	beatlemania   	/	beaty         	/	beaucoup      	/	beautician    
+level=3  	child=1  	became        	/	bedck         	/	bedim         	/	bedsheet      	/	bedtiime      	/	beef          	/	beeline       	/	beetleheaded  
+level=4  	child=0  	beautifier    	/	beautify      	/	beaverboard   	/	becalmed      
+level=4  	child=1  	bechamel      	/	becility      	/	bedash        	/	bedbug        
+level=4  	child=2  	beddo         	/	bedew         	/	bedgown       	/	bedight       
+level=4  	child=3  	bedin         	/	bedlamp       	/	bedpost       	/	bedraggle     	/	bedrail       	/	bedrench      	/	bedroll       	/	bedroom       
+level=4  	child=4  	bedsore       	/	bedstead      	/	bedstone      	/	bedtick       
+level=4  	child=5  	bedtime       	/	beebee        	/	beebread      	/	beechwood     
+level=4  	child=6  	beefsteak     	/	beehouse      	/	beekeeper     	/	beekeeping    
+level=4  	child=7  	beemaster     	/	beemistress   	/	beer          	/	beerhouse     
+level=4  	child=8  	beetroot      	/	beezer        	/	befit         	/	beforehand    
+level=3  	child=2  	begohm        	/	behoove       	/	beld          	/	belibel       
+level=4  	child=0  	beggar        	/	beginner      	/	beginning     	/	begnaw        
+level=4  	child=1  	begrimed      	/	behalf        	/	behavioral    	/	behavioural   
+level=4  	child=2  	beingless     	/	beiruti       	/	bejesus       	/	bejewel       
+level=4  	child=3  	beleague      	/	beleaguer     	/	belee         	/	belfried      
+level=4  	child=4  	belie         	/	believable    	/	believer      	/	believing     
+level=3  	child=3  	bellwaver     	/	belowground   	/	bemud         	/	beneficiation 
+level=4  	child=0  	bellbird      	/	bellboy       	/	belligerency  	/	bellows       
+level=4  	child=1  	bellybutton   	/	bellyhold     	/	bellyworm     	/	belong        
+level=4  	child=2  	belvedere     	/	bemaul        	/	bemoan        	/	bemock        
+level=4  	child=3  	bemuse        	/	bench         	/	bended        	/	benediction   
+level=4  	child=4  	benevolent    	/	bengal        	/	benison       	/	benthic       
+level=3  	child=4  	berliner      	/	beseechingly  	/	besmirch      	/	besprent      
+level=4  	child=0  	benzoin       	/	bepuzzle      	/	bepuzzlement  	/	bereaved      	/	beret         	/	bergall       	/	bergamasque   	/	berimbau      
+level=4  	child=1  	bern          	/	berry         	/	bersagliere   	/	beseeching    
+level=4  	child=2  	beseem        	/	beset         	/	besiege       	/	besmear       
+level=4  	child=3  	bespatter     	/	bespattered   	/	bespeak       	/	bespectacled  
+level=4  	child=4  	besprinkle    	/	bessie        	/	bestraddle    	/	bestride      
+level=2  	child=7  	bilker        	/	biretta       	/	blackdamp     	/	bludgeon      	/	bombinate     
+level=3  	child=0  	bettor        	/	bewigged      	/	biaxial       	/	bicephalous   	/	bicrural      	/	biforked      	/	bight         
+level=4  	child=0  	betoken       	/	betroth       	/	betterment    	/	betting       
+level=4  	child=1  	betty         	/	betweenmaid   	/	betweenness   	/	beverage      
+level=4  	child=2  	bewitchingly  	/	biangular     	/	biannually    	/	biathlon      
+level=4  	child=3  	biblical      	/	bibliographize	/	bibliokleptomania	/	bibliopole    
+level=4  	child=4  	bichrome      	/	bickiron      	/	bicolor       	/	biconcave     	/	biconvex      	/	bicorne       	/	bicron        
+level=4  	child=5  	bidden        	/	biennium      	/	bifacial      	/	bifocal       
+level=4  	child=6  	bifurcation   	/	bigamist      	/	bigarade      	/	bighead       
+level=4  	child=7  	bilestone     	/	bilge         	/	bilievable    	/	bilinear      
+level=3  	child=1  	bimanous      	/	binnacle      	/	bioelectrical 	/	biological    	/	biomathematics	/	biosatellite  	/	birdie        
+level=4  	child=0  	billfold      	/	billhook      	/	billiken      	/	billionaire   
+level=4  	child=1  	bindlestiff   	/	bindwood      	/	bine          	/	bingy         
+level=4  	child=2  	biochemistry  	/	biochip       	/	biocoenosis   	/	bioelectric   
+level=4  	child=3  	bioelectricity	/	biofeedback   	/	biographer    	/	biographical  	/	biographically	/	biography     	/	biohazard     	/	bioinstrumentation
+level=4  	child=4  	biologically  	/	biologist     	/	biomaterial   	/	biomathcmatics
+level=4  	child=5  	biomedicine   	/	biometry      	/	bionomics     	/	bioplasm      
+level=4  	child=6  	bioscience    	/	bioscope      	/	biosphere     	/	biothythm     	/	biotransformation	/	bipartite     	/	birdcage      	/	birder        
+level=4  	child=7  	birdlime      	/	birdseed      	/	birdwoman     	/	bireme        
+level=3  	child=2  	bise          	/	bismuth       	/	bituminous    	/	blackbeetle   
+level=4  	child=0  	birthday      	/	birthplace    	/	birthrate     	/	birthstone    
+level=4  	child=1  	bisectrix     	/	bishop        	/	bisk          	/	bismillah     
+level=4  	child=2  	bistoury      	/	bisynchronous 	/	bitten        	/	bitumen       
+level=4  	child=3  	bivalve       	/	bizzard       	/	blabber       	/	blabbermouth  
+level=4  	child=4  	blackberry    	/	blackbird     	/	blackboard    	/	blackcurrant  
+level=3  	child=3  	blackhead     	/	blaff         	/	blastoderm    	/	blessed       	/	blinder       	/	bloater       	/	bloodshed     	/	blooming      
+level=4  	child=0  	blackface     	/	blackfellow   	/	blackfish     	/	blackguard    
+level=4  	child=1  	blackie       	/	blackish      	/	blackmarket   	/	bladesmith    
+level=4  	child=2  	blancmange    	/	blandiloquence	/	blanketyblank 	/	blanquet      
+level=4  	child=3  	blastomere    	/	blastproof    	/	bleak         	/	blear         	/	bled          	/	blendword     	/	blenny        
+level=4  	child=4  	blessedness   	/	bleuderoi     	/	blighted      	/	blimey        
+level=4  	child=5  	blindworm     	/	blissful      	/	blister       	/	blizzard      
+level=4  	child=6  	bloodbath     	/	bloodguilty   	/	bloodletting  	/	bloodlust     
+level=4  	child=7  	bloodstain    	/	bloodworm     	/	blooey        	/	bloomers      
+level=4  	child=8  	blossomy      	/	blowball      	/	blowmobile    	/	blowpipe      
+level=3  	child=4  	bluejacket    	/	boating       	/	bobsled       	/	bohr          
+level=4  	child=0  	bluebell      	/	bluefin       	/	blueing       	/	blueish       
+level=4  	child=1  	bluish        	/	boanerges     	/	boardinghouse 	/	boaster       
+level=4  	child=2  	boatman       	/	boatmanship   	/	boatswain     	/	boblet        
+level=4  	child=3  	bobsleigh     	/	bobstay       	/	bodhisattva   	/	boggy         
+level=4  	child=4  	boilerplate   	/	bolection     	/	boll          	/	bolwtorch     
+level=3  	child=5  	bondmaid      	/	boneblack     	/	bonnie        	/	bookkeeping   
+level=4  	child=0  	bomblet       	/	bombsite      	/	bombycid      	/	bonanzagram   
+level=4  	child=1  	bondman       	/	bondservice   	/	bondsman      	/	bondwoman     
+level=4  	child=2  	bonehead      	/	bonesetting   	/	bonism        	/	bonito        
+level=4  	child=3  	boodler       	/	bookbinder    	/	bookbinding   	/	bookkeeper    
+level=4  	child=4  	booklet       	/	booklore      	/	bookmark      	/	bookmarker    
+level=2  	child=8  	bored         	/	bowdlerism    	/	bragger       	/	brewery       	/	brimming      
+level=3  	child=0  	bookshop      	/	boost         	/	bootlace      	/	borax         
+level=4  	child=0  	bookrest      	/	bookseller    	/	bookselling   	/	bookshelf     
+level=4  	child=1  	bookstack     	/	bookstall     	/	bookstore     	/	boomtown      
+level=4  	child=2  	bootblack     	/	booted        	/	bootery       	/	bootjack      
+level=4  	child=3  	bootprint     	/	boots         	/	bootstrap     	/	borated       
+level=4  	child=4  	bordello      	/	borderer      	/	borderline    	/	boreal        
+level=3  	child=1  	boride        	/	botanist      	/	bottleneck    	/	bountifully   
+level=4  	child=0  	boredom       	/	borehole      	/	boresome      	/	boric         
+level=4  	child=1  	boron         	/	borrowing     	/	borzoi        	/	botanically   
+level=4  	child=2  	botany        	/	botch         	/	bottled       	/	bottleful     
+level=4  	child=3  	boulangerite  	/	boult         	/	boulter       	/	bounden       
+level=4  	child=4  	bouquet       	/	bourgeoisie   	/	bourse        	/	bovid         
+level=3  	child=2  	bowlful       	/	boxcar        	/	boyhood       	/	braciole      
+level=4  	child=0  	bower         	/	bowing        	/	bowknot       	/	bowlegged     
+level=4  	child=1  	bowline       	/	bowling       	/	bowls         	/	bowsprit      
+level=4  	child=2  	boxer         	/	boxful        	/	boxing        	/	boxtree       
+level=4  	child=3  	bracelet      	/	braceleted    	/	brachycephalic	/	braciola      
+level=4  	child=4  	bracken       	/	bracteate     	/	brad          	/	bradawl       
+level=3  	child=3  	brainman      	/	braise        	/	brassfounder  	/	brazenly      	/	breaker       	/	breathalyse   	/	brekker       
+level=4  	child=0  	brahmanism    	/	brahminism    	/	brain         	/	brainfag      
+level=4  	child=1  	brainpan      	/	brainteaser   	/	brainwashing  	/	brainwork     
+level=4  	child=2  	braize        	/	brakesman     	/	branchia      	/	branchiae     	/	branchiate    	/	brant         	/	brassard      	/	brasserie     
+level=4  	child=3  	brassfounding 	/	brave         	/	bravely       	/	braver        	/	bravery       	/	bravest       	/	braxy         	/	brazenfaced   
+level=4  	child=4  	brazil        	/	brazilwood    	/	breadthways   	/	breadthwise   
+level=4  	child=5  	breakthrough  	/	breakwind     	/	breastbone    	/	breaststroke  
+level=4  	child=6  	bree          	/	breech        	/	breechless    	/	breezeless    
+level=4  	child=7  	brer          	/	brevier       	/	breviped      	/	brewage       
+level=3  	child=4  	brickearth    	/	brickwork     	/	bridegroom    	/	briefing      
+level=4  	child=0  	brewing       	/	brewster      	/	bribee        	/	briber        
+level=4  	child=1  	brickkiln     	/	bricklayer    	/	brickmaker    	/	brickmaking   
+level=4  	child=2  	bricky        	/	brickyard     	/	bride         	/	bridecake     
+level=4  	child=3  	bridesmaid    	/	bridesman     	/	bridgeable    	/	bridgeward    
+level=4  	child=4  	brigade       	/	brightly      	/	brightsome    	/	brimfull      
+level=3  	child=5  	broadax       	/	brocoli       	/	broodmare     	/	brother       	/	brume         	/	brushwood     	/	buckjump      	/	budgerigar    
+level=4  	child=0  	brimmy        	/	brimstone     	/	brine         	/	brinjaul      	/	bristling     	/	britain       	/	britainic     	/	britisher     
+level=4  	child=1  	broadcasting  	/	broadish      	/	broccoli      	/	brochure      
+level=4  	child=2  	broider       	/	bromine       	/	bronzesmith   	/	bronzing      
+level=4  	child=3  	broomstick    	/	brose         	/	broth         	/	brothel       
+level=4  	child=4  	brownette     	/	brownish      	/	brownness     	/	bruit         
+level=4  	child=5  	brummie       	/	brunch        	/	brushhook     	/	brushup       
+level=4  	child=6  	bubby         	/	buccaneerish  	/	buckeen       	/	buckhorn      
+level=4  	child=7  	buckled       	/	buddha        	/	buddhism      	/	budge         
+level=4  	child=8  	budgetary     	/	budgeteering  	/	buffoon       	/	bugaboo       
+level=1  	child=1  	cape          	/	chackle       	/	chlorine      	/	clothback     	/	concentric    	/	corpse        
+level=2  	child=0  	burglar       	/	cachot        	/	cake          	/	campanero     
+level=3  	child=0  	bulbiform     	/	bullbaiting   	/	bullring      	/	bumpiness     
+level=4  	child=0  	bugler        	/	buhl          	/	bulbar        	/	bulbiferous   
+level=4  	child=1  	bulbul        	/	bulger        	/	bulginess     	/	bulimia       
+level=4  	child=2  	bulldozer     	/	bullet        	/	bulletproof   	/	bullnecked    
+level=4  	child=3  	bullshit      	/	bulltrout     	/	bumbershoot   	/	bumpily       
+level=4  	child=4  	bunchberry    	/	bunghole      	/	bungle        	/	burbot        
+level=3  	child=1  	burier        	/	bushhammer    	/	businessman   	/	butane        	/	buttonhole    	/	bypath        	/	byway         	/	cablese       
+level=4  	child=0  	burglary      	/	burgle        	/	burgrave      	/	burial        
+level=4  	child=1  	burin         	/	burliness     	/	burnt         	/	bursarial     	/	bursiform     	/	burying       	/	buses         	/	bushbuck      
+level=4  	child=2  	bushiness     	/	busier        	/	busiest       	/	busily        
+level=4  	child=3  	businessmen   	/	bustle        	/	busywork      	/	butadiene     
+level=4  	child=4  	butte         	/	butterfish    	/	butterine     	/	buttocks      
+level=4  	child=5  	buttstock     	/	buyable       	/	byland        	/	bypast        
+level=4  	child=6  	byplot        	/	byproduct     	/	byre          	/	bywalk        
+level=4  	child=7  	byzantium     	/	caac          	/	cabbagehead   	/	cabernet      
+level=4  	child=8  	cableway      	/	cabotin       	/	cabriolet     	/	cachalot      
+level=3  	child=2  	cadastre      	/	cadmium       	/	caecum        	/	caffeic       
+level=4  	child=0  	cacodemon     	/	cacodorous    	/	cacoepy       	/	cadastration  
+level=4  	child=1  	caddoan       	/	cadential     	/	cadi          	/	cadmiferous   
+level=4  	child=2  	cady          	/	caecal        	/	caeciform     	/	caecitis      
+level=4  	child=3  	caelum        	/	caesious      	/	caesium       	/	cafeteria     
+level=4  	child=4  	cageling      	/	caiman        	/	caiquejee     	/	cajon         
+level=3  	child=3  	calciferol    	/	calculability 	/	caliology     	/	calligraphy   	/	calorific     	/	calorimetry   	/	camail        	/	camik         
+level=4  	child=0  	calamander    	/	calamary      	/	calamite      	/	calcaneal     
+level=4  	child=1  	calcification 	/	calciform     	/	calcination   	/	calcinator    
+level=4  	child=2  	calculated    	/	calculatedly  	/	calculational 	/	calescence    	/	calibrate     	/	calibre       	/	caliduct      
+level=4  	child=3  	callboard     	/	callee        	/	calligrapher  	/	calligraphist 
+level=4  	child=4  	calls         	/	calmbelt      	/	calorie       	/	calorifacient 
+level=4  	child=5  	calorifics    	/	calorify      	/	calorimeter   	/	calorimetrist 
+level=4  	child=6  	calvarium     	/	calvities     	/	calvous       	/	calyciform    
+level=4  	child=7  	cambric       	/	camelry       	/	camera        	/	cameralistics 
+level=4  	child=8  	camisa        	/	camleteen     	/	camomile      	/	campagna      
+level=3  	child=4  	camphol       	/	cancerization 	/	cancrivorous  	/	candler       	/	canework      	/	cannonball    
+level=4  	child=0  	campaniform   	/	campcraft     	/	camper        	/	camphire      
+level=4  	child=1  	campimeter    	/	camwood       	/	canada        	/	canaled       	/	canaliculate  	/	cancellation  	/	cancer        	/	cancered      
+level=4  	child=2  	cancerogenic  	/	cancerology   	/	cancerophobia 	/	cancerous     
+level=4  	child=3  	candescence   	/	candescent    	/	candleholder  	/	candlepower   
+level=4  	child=4  	candlestand   	/	candlewick    	/	canella       	/	canescent     
+level=4  	child=5  	canful        	/	caning        	/	caniniform    	/	canis         	/	cankerworm    	/	cannabic      	/	cannery       	/	canning       
+level=4  	child=6  	cannonproof   	/	cannot        	/	cannula       	/	canonical     	/	cantalever    	/	canterbury    	/	canzone       	/	capably       
+level=2  	child=1  	caritative    	/	cartography   	/	casus         	/	catoptrics    	/	cemental      
+level=3  	child=0  	capsizal      	/	carabao       	/	carafe        	/	carbarn       	/	carburization 	/	cardcase      	/	cardplayer    	/	caribbean     
+level=4  	child=0  	capitalism    	/	caponize      	/	cappie        	/	capric        	/	capriform     	/	caprine       	/	capsicum      	/	capsid        
+level=4  	child=1  	captainless   	/	captress      	/	capuche       	/	caput         
+level=4  	child=2  	carabin       	/	carabine      	/	carabineer    	/	carabinier    
+level=4  	child=3  	carapace      	/	caraway       	/	carbamidine   	/	carbanion     
+level=4  	child=4  	carbineer     	/	carbolic      	/	carbonado     	/	carboxyl      
+level=4  	child=5  	carcinectomy  	/	carcinogen    	/	carcinosarcoma	/	cardboard     
+level=4  	child=6  	cardfile      	/	cardinality   	/	cardiogram    	/	carditis      
+level=4  	child=7  	cardroom      	/	carex         	/	carful        	/	cargoboat     
+level=4  	child=8  	cariogenic    	/	cariosity     	/	cariostatic   	/	caritas       
+level=3  	child=1  	carniferous   	/	carpenter     	/	carpogonial   	/	carrot        
+level=4  	child=0  	carlet        	/	carloadings   	/	carnalize     	/	carnassial    
+level=4  	child=1  	carnification 	/	carnivorous   	/	carnose       	/	carouse       
+level=4  	child=2  	carpentry     	/	carpet        	/	carpetweed    	/	carphology    
+level=4  	child=3  	carpogonium   	/	carpolite     	/	carretela     	/	carriable     
+level=4  	child=4  	carrottop     	/	carsick       	/	carsickness   	/	cartful       
+level=3  	child=2  	carved        	/	caseous       	/	cassareep     	/	castigate     
+level=4  	child=0  	cartomancy    	/	cartoonist    	/	cartridge     	/	cartwright    
+level=4  	child=1  	carvel        	/	carven        	/	casa          	/	caseophile    
+level=4  	child=2  	cases         	/	cashbook      	/	casita        	/	casque        
+level=4  	child=3  	cassava       	/	cassimere     	/	castaneous    	/	castelet      
+level=4  	child=4  	castle        	/	castration    	/	castte        	/	casualty      
+level=3  	child=3  	catalysis     	/	catboat       	/	catfish       	/	cathode       
+level=4  	child=0  	cataclasm     	/	catacoustics  	/	catagenesis   	/	catalogue     
+level=4  	child=1  	catamnesis    	/	cataphonic    	/	cataphonics   	/	cataphoresis  	/	cataphoric    	/	cataplasm     	/	catarrhine    	/	catatonia     
+level=4  	child=2  	catenarian    	/	catenation    	/	catenulate    	/	caterpillar   
+level=4  	child=3  	cathead       	/	cathedral     	/	cathexis      	/	cathodal      
+level=4  	child=4  	cathouse      	/	catlap        	/	catnip        	/	catoptric     
+level=3  	child=4  	cautiously    	/	caviare       	/	ceanothus     	/	cede          	/	celebrated    	/	celibacy      	/	celluloid     
+level=4  	child=0  	cattleya      	/	caucasia      	/	caudad        	/	caudiform     	/	caulocaline   	/	causality     	/	causally      	/	cautionary    
+level=4  	child=1  	cavalcade     	/	cavalry       	/	cavernous     	/	caviar        
+level=4  	child=2  	cavitation    	/	cavort        	/	cayenne       	/	cdrom         
+level=4  	child=3  	cebuan        	/	cecal         	/	cecum         	/	cedar         
+level=4  	child=4  	ceder         	/	cedilla       	/	celaeno       	/	celandine     
+level=4  	child=5  	celebrator    	/	celeriac      	/	celestial     	/	celestite     
+level=4  	child=6  	cellaret      	/	cello         	/	cellophane    	/	cellule       
+level=4  	child=7  	cellulose     	/	celsius       	/	celticize     	/	celtuce       
+level=3  	child=5  	census        	/	centiliter    	/	centripetalism	/	cerebellar    	/	cerebrum      	/	certified     	/	cesium        	/	cete          
+level=4  	child=0  	cementation   	/	cenobite      	/	censer        	/	censorate     
+level=4  	child=1  	centaury      	/	centesis      	/	centiare      	/	centigram     
+level=4  	child=2  	centimillionaire	/	centipede     	/	centreless    	/	centrifugal   
+level=4  	child=3  	centroid      	/	cephalad      	/	cephalated    	/	cephalothorax 	/	cephalous     	/	cerastium     	/	cercus        
+level=4  	child=4  	cerebellum    	/	cerebric      	/	cerebritis    	/	cerebrospinal 
+level=4  	child=5  	ceremoniously 	/	ceriferous    	/	cerium        	/	certification 
+level=4  	child=6  	certifier     	/	certosina     	/	cerusite      	/	cervicitis    
+level=4  	child=7  	cespitose     	/	cessation     	/	cesspit       	/	cetaceum      
+level=4  	child=8  	cetological   	/	cetologist    	/	cetology      	/	cevitamic     
+level=2  	child=2  	changkiang    	/	chasmy        	/	chemiculture  	/	chillily      
+level=3  	child=0  	chainstitch   	/	chaldee       	/	chambezi      	/	championship  
+level=4  	child=0  	chaeta        	/	chagatai      	/	chainbridge   	/	chainlet      
+level=4  	child=1  	chairperson   	/	chalaza       	/	chalcopyrite  	/	chaldean      
+level=4  	child=2  	chaldron      	/	chalkboard    	/	chalky        	/	challenger    
+level=4  	child=3  	chameleon     	/	champaign     	/	champertor    	/	champerty     
+level=4  	child=4  	chancel       	/	chancellery   	/	changeable    	/	changemaker   
+level=3  	child=1  	chanty        	/	chaperonage   	/	char          	/	charity       
+level=4  	child=0  	chansonnier   	/	chant         	/	chanticleer   	/	chantress     
+level=4  	child=1  	chaparejos    	/	chapatty      	/	chapeau       	/	chapelgoer    
+level=4  	child=2  	chapfallen    	/	chapiter      	/	chappy        	/	chapstick     
+level=4  	child=3  	charbroil     	/	charcoal      	/	chariot       	/	charitarian   
+level=4  	child=4  	charlatan     	/	charman       	/	charr         	/	chartered     
+level=3  	child=2  	chateaubriand 	/	cheapness     	/	checkman      	/	cheerless     
+level=4  	child=0  	chassis       	/	chasten       	/	chastisement  	/	chateau       
+level=4  	child=1  	chatelet      	/	chatterer     	/	chazan        	/	cheaply       
+level=4  	child=2  	cheaters      	/	checkbook     	/	checkered     	/	checkgate     
+level=4  	child=3  	checktaker    	/	cheekily      	/	cheekiness    	/	cheekybone    
+level=4  	child=4  	cheery        	/	chef          	/	chekiang      	/	cheloid       
+level=3  	child=3  	chemoreception	/	chemotropically	/	chequebook    	/	chevy         	/	chiaus        	/	chicory       	/	childbirth    	/	childrenese   
+level=4  	child=0  	chemisette    	/	chemism       	/	chemistry     	/	chemitype     
+level=4  	child=1  	chemoreceptivity	/	chemosphere   	/	chemosynthesis	/	chemotherapy  
+level=4  	child=2  	chengteh      	/	chengtu       	/	cheongsam     	/	cheque        
+level=4  	child=3  	cherrywood    	/	chervil       	/	chess         	/	chessboard    	/	chessman      	/	chessylite    	/	chestnut      	/	chestnutting  
+level=4  	child=4  	chiasma       	/	chiasmus      	/	chiastic      	/	chiastolite   
+level=4  	child=5  	chicagoan     	/	chickenhearted	/	chickenlivered	/	chickweed     
+level=4  	child=6  	chifforobe    	/	chignon       	/	chilblain     	/	childbearing  
+level=4  	child=7  	childhood     	/	childie       	/	childing      	/	childless     
+level=4  	child=8  	chili         	/	chiliad       	/	chiliast      	/	chilli        
+level=3  	child=4  	chinaware     	/	chippewa      	/	chironomid    	/	chitinous     
+level=4  	child=0  	chillsome     	/	chilly        	/	chimb         	/	chimerical    
+level=4  	child=1  	chincherinchee	/	chinchilla    	/	chinela       	/	chiphead      
+level=4  	child=2  	chirographer  	/	chirology     	/	chiromancer   	/	chiromancy    
+level=4  	child=3  	chiroptera    	/	chirurgeon    	/	chirurgery    	/	chiseler      
+level=4  	child=4  	chitter       	/	chiv          	/	chive         	/	chlorin       
+level=2  	child=3  	chorda        	/	ciel          	/	clarinetist   	/	cleavable     
+level=3  	child=0  	chlorometer   	/	cholecyst     	/	cholesterol   	/	chopper       
+level=4  	child=0  	chlorinity    	/	chloroacetic  	/	chlorodyne    	/	chloroethylene
+level=4  	child=1  	chloromethane 	/	chlorospinel  	/	chlortetracycline	/	choanocyte    
+level=4  	child=2  	cholelith     	/	choleric      	/	cholerine     	/	cholesterin   
+level=4  	child=3  	cholic        	/	chondrification	/	chondrocranium	/	choochoo      	/	chook         	/	choora        	/	chophouse     	/	chopine       
+level=4  	child=4  	chopsticks    	/	choral        	/	chorale       	/	chorally      
+level=3  	child=1  	choreographer 	/	chowry        	/	christianity  	/	chromophotograph	/	chrysanthemum 	/	chuckwalla    	/	chymist       
+level=4  	child=0  	chordophone   	/	chore         	/	choreatic     	/	choreodrama   
+level=4  	child=1  	choreopoem    	/	chorist       	/	chorogophic   	/	choucroute    
+level=4  	child=2  	chrematistics 	/	chrismal      	/	christen      	/	christening   
+level=4  	child=3  	christology   	/	chromate      	/	chromatic     	/	chromaticity  	/	chromatist    	/	chromatograph 	/	chromhidrosis 	/	chromium      
+level=4  	child=4  	chromosphere  	/	chronologist  	/	chronometer   	/	chrysalides   
+level=4  	child=5  	chrysoberyl   	/	chrysolite    	/	chrysoprase   	/	chub          
+level=4  	child=6  	churchlike    	/	chutist       	/	chutty        	/	chymic        
+level=4  	child=7  	chymistry     	/	cicada        	/	cider         	/	ciderkin      
+level=3  	child=2  	ciliated      	/	cineprojector 	/	circlet       	/	circumferential	/	circunglibal  	/	citify        	/	cityscape     	/	clairvoyante  
+level=4  	child=0  	cienaga       	/	cigala        	/	cigar         	/	cilantro      
+level=4  	child=1  	cinefilm      	/	cinematics    	/	cinematize    	/	cinematography
+level=4  	child=2  	cinnamic      	/	cinque        	/	cipher        	/	circinate     
+level=4  	child=3  	circlewise    	/	circularity   	/	circulator    	/	circulatory   
+level=4  	child=4  	circumflex    	/	circumgyrate  	/	circumjacent  	/	circumnavigate	/	circumnutation	/	circumrotatory	/	circumscription	/	circumvolve   
+level=4  	child=5  	cisborder     	/	ciseleur      	/	citable       	/	citation      
+level=4  	child=6  	citizeness    	/	citizenhood   	/	citrate       	/	citriculture  
+level=4  	child=7  	civics        	/	civilizable   	/	cladding      	/	claimable     
+level=4  	child=8  	clandestine   	/	clapnet       	/	clapper       	/	clarifier     
+level=3  	child=3  	classless     	/	claval        	/	cleaners      	/	cleared       
+level=4  	child=0  	clarion       	/	classable     	/	classfellow   	/	classifiable  
+level=4  	child=1  	classmate     	/	classroom     	/	claudication  	/	clava         
+level=4  	child=2  	clavicembalo  	/	claviform     	/	clayware      	/	cleanbred     
+level=4  	child=3  	cleanhanded   	/	cleanish      	/	cleanse       	/	clearance     
+level=4  	child=4  	clearer       	/	clearing      	/	clearway      	/	cleat         
+level=3  	child=4  	cliffy        	/	clipbook      	/	clockface     	/	clonic        
+level=4  	child=0  	clef          	/	cleithral     	/	clidomancy    	/	clientage     
+level=4  	child=1  	climatic      	/	climograph    	/	clinandrium   	/	clinoscope    
+level=4  	child=2  	cliquish      	/	clithral      	/	clochard      	/	clock         
+level=4  	child=3  	clocking      	/	clockwork     	/	clogger       	/	clomp         
+level=4  	child=4  	closely       	/	closer        	/	closest       	/	closestool    
+level=2  	child=4  	coadjustment  	/	coelom        	/	collaborator  	/	comet         	/	complicacy    
+level=3  	child=0  	clothespole   	/	cloudless     	/	clubfoot      	/	clutter       
+level=4  	child=0  	clothesbrush  	/	clotheshorse  	/	clothesline   	/	clothesman    
+level=4  	child=1  	clothespress  	/	clothing      	/	clotted       	/	cloudage      
+level=4  	child=2  	cloudling     	/	cloudwards    	/	clownish      	/	clubbed       
+level=4  	child=3  	clue          	/	clumsy        	/	clunch        	/	clupeoid      
+level=4  	child=4  	coachman      	/	coact         	/	coactivated   	/	coadjust      
+level=3  	child=1  	cobelligerence	/	cockade       	/	cockiness     	/	coconspirator 	/	codicology    
+level=4  	child=0  	coagulable    	/	coalesce      	/	coalfield     	/	coastline     	/	coatrack      	/	coaxal        	/	cobaltiferous 	/	cobbra        
+level=4  	child=1  	cobelligerency	/	cobelligerent 	/	coccygeal     	/	cochairman    
+level=4  	child=2  	cockatiel     	/	cockbrain     	/	cocked        	/	cockfight     
+level=4  	child=3  	cockneyese    	/	cockroach     	/	cockspur      	/	coco          
+level=4  	child=4  	coconut       	/	cocoon        	/	cocoonery     	/	cocurriculum  	/	codefendant   	/	codetermine   	/	codetta       	/	codfish       
+level=4  	child=5  	coding        	/	coeditor      	/	coeducation   	/	coehorn       
+level=3  	child=2  	coessential   	/	cofacter      	/	cognizant     	/	coinstantaneity	/	colatitude    
+level=4  	child=0  	coelomatic    	/	coenobite     	/	coequally     	/	coercing      
+level=4  	child=1  	coetaneous    	/	coevality     	/	coexist       	/	coexistence   
+level=4  	child=2  	coffeepot     	/	coffer        	/	coffin        	/	cognition     
+level=4  	child=3  	cohabitant    	/	coherence     	/	cohesive      	/	cohorts       	/	coil          	/	coindication  	/	coinheritance 
+level=4  	child=4  	coinsurance   	/	coital        	/	cokernut      	/	colaborer     
+level=4  	child=5  	coldish       	/	coldly        	/	coleseed      	/	colessee      
+level=3  	child=3  	collator      	/	collimate     	/	colloquium    	/	colon         	/	colorblind    	/	colorway      	/	columniform   	/	combustion    
+level=4  	child=0  	collagen      	/	collarband    	/	collate       	/	collateral    
+level=4  	child=1  	collectivism  	/	collectress   	/	collegiality  	/	collegiate    	/	colleging     	/	collenchyma   	/	colliery      
+level=4  	child=2  	collimation   	/	collimator    	/	collocate     	/	colloquialist 
+level=4  	child=3  	collusive     	/	collutory     	/	colluvial     	/	collyrium     
+level=4  	child=4  	colonialism   	/	colonic       	/	colonnade     	/	colorant      
+level=4  	child=5  	colorfast     	/	colorimetry   	/	colorized     	/	colorplate    
+level=4  	child=6  	coltsfoot     	/	columbary     	/	columbia      	/	columbium     
+level=4  	child=7  	columnist     	/	coma          	/	combinatorial 	/	combustible   
+level=4  	child=8  	comedian      	/	comedic       	/	comedietta    	/	comedist      
+level=3  	child=4  	commandment   	/	comminution   	/	committeeman  	/	commodity     	/	commutability 	/	comparator    	/	compensator   	/	competitory   
+level=4  	child=0  	comfily       	/	comfortable   	/	commandable   	/	commandant    
+level=4  	child=1  	commandress   	/	commemorate   	/	commemorative 	/	commensalism  	/	commerce      	/	commie        	/	comminatory   	/	commingle     
+level=4  	child=2  	commiseration 	/	commissural   	/	commissure    	/	committee     
+level=4  	child=3  	committeewoman	/	commix        	/	commixture    	/	commodious    
+level=4  	child=4  	commonable    	/	commonland    	/	commonsensible	/	communism     
+level=4  	child=5  	commutable    	/	commutation   	/	commutative   	/	companionway  
+level=4  	child=6  	compart       	/	compasses     	/	compensability	/	compensable   
+level=4  	child=7  	compensatory  	/	competence    	/	competitive   	/	competitor    
+level=4  	child=8  	compilation   	/	complanation  	/	completeness  	/	completion    
+level=3  	child=5  	comport       	/	compressibility	/	comte         	/	conceitedly   
+level=4  	child=0  	complied      	/	complier      	/	complimental  	/	compline      
+level=4  	child=1  	compossible   	/	comprador     	/	compreg       	/	comprehensively
+level=4  	child=2  	comptroller   	/	computable    	/	computational 	/	computus      
+level=4  	child=3  	conative      	/	concatenate   	/	concatenation 	/	concavity     
+level=4  	child=4  	conceiver     	/	concelebrate  	/	concelebration	/	concentrator  
+level=2  	child=5  	condenses     	/	congelation   	/	consuming     	/	conveniently  	/	copacetic     
+level=3  	child=0  	concernedly   	/	concession    	/	concisely     	/	concretely    
+level=4  	child=0  	conceptual    	/	conceptualist 	/	conceptualize 	/	conceptually  
+level=4  	child=1  	concernful    	/	concerning    	/	concerto      	/	concessible   
+level=4  	child=2  	concessively  	/	conchoidal    	/	conciliar     	/	conciliator   
+level=4  	child=3  	concluding    	/	conclusively  	/	concordance   	/	concordant    
+level=4  	child=4  	concretization	/	concur        	/	condensation  	/	condensery    
+level=3  	child=1  	condom        	/	conductive    	/	conferrable   	/	confluence    
+level=4  	child=0  	condiment     	/	condiments    	/	conditionally 	/	condole       
+level=4  	child=1  	conducive     	/	conductibility	/	conductible   	/	conduction    
+level=4  	child=2  	condyle       	/	confabulate   	/	confabulator  	/	confederation 
+level=4  	child=3  	conferrale    	/	confidence    	/	confidentiality	/	confidingly   	/	confiscable   	/	conflagate    	/	conflate      	/	conflation    
+level=4  	child=4  	confluent     	/	conformability	/	conformation  	/	congealer     
+level=3  	child=2  	congregate    	/	conjugation   	/	conniption    	/	conscription  	/	consequentially	/	consoling     	/	constructive  
+level=4  	child=0  	congenetic    	/	congested     	/	congestive    	/	conglomerate  
+level=4  	child=1  	congruent     	/	conicoid      	/	coniferae     	/	coniform      
+level=4  	child=2  	conjunctly    	/	conjurer      	/	conkers       	/	connectedly   	/	connectible   	/	connectivity  	/	connector     
+level=4  	child=3  	connubiality  	/	conoid        	/	conscientious 	/	conscientiously
+level=4  	child=4  	consecutively 	/	consenescence 	/	consenter     	/	consenting    
+level=4  	child=5  	considerably  	/	consignable   	/	consignation  	/	consolidate   
+level=4  	child=6  	conspicuous   	/	constipate    	/	constipation  	/	constrict     
+level=4  	child=7  	constructively	/	consular      	/	consultative  	/	consumer      
+level=3  	child=3  	contaminate   	/	continentality	/	contradistinguish	/	contrastive   
+level=4  	child=0  	consumingly   	/	contadina     	/	contadino     	/	containership 
+level=4  	child=1  	conte         	/	contemptible  	/	contemptuously	/	contignation  
+level=4  	child=2  	continuable   	/	continuative  	/	contractual   	/	contracture   
+level=4  	child=3  	contrafluxion 	/	contraindication	/	contranatant  	/	contrapuntal  
+level=4  	child=4  	contrastively 	/	controlling   	/	controlment   	/	convalescence 
+level=3  	child=4  	convoke       	/	cookies       	/	cookstove     	/	cooly         
+level=4  	child=0  	conversable   	/	conversational	/	conversazione 	/	converter     
+level=4  	child=1  	convulsively  	/	cooer         	/	cookbook      	/	cookery       
+level=4  	child=2  	cooking       	/	cookoff       	/	cookroom      	/	cookshack     
+level=4  	child=3  	cooktop       	/	cooky         	/	cooler        	/	coolish       
+level=4  	child=4  	coom          	/	cooncan       	/	cooper        	/	cooperationist
+level=3  	child=5  	coppering     	/	coproduct     	/	cordate       	/	corea         	/	cormophyte    	/	corniced      	/	cornus        	/	coronation    
+level=4  	child=0  	copenhagen    	/	copilot       	/	copper        	/	copperas      
+level=4  	child=1  	copperize     	/	coppice       	/	copra         	/	coprecipitation
+level=4  	child=2  	coprolite     	/	coprostasis   	/	copter        	/	copybook      	/	copygraph     	/	coracle       	/	coralloid     	/	corbeil       
+level=4  	child=3  	cordelle      	/	cordiform     	/	cordis        	/	cordite       
+level=4  	child=4  	corfam        	/	corinthian    	/	corium        	/	corkage       
+level=4  	child=5  	corncrake     	/	cornemuse     	/	cornetto      	/	cornflakes    
+level=4  	child=6  	cornloft      	/	cornstarch    	/	cornu         	/	cornual       
+level=4  	child=7  	corolla       	/	corollate     	/	corolliform   	/	coronate      
+level=4  	child=8  	coroner       	/	corp          	/	corpman       	/	corposant     
+level=2  	child=6  	coulometry    	/	counterreaction	/	cowlike       	/	crescendo     	/	cryopump      	/	cubit         
+level=3  	child=0  	corrasive     	/	corvee        	/	cosmographic  	/	cotemporaneous
+level=4  	child=0  	corpselike    	/	corpulence    	/	corrade       	/	corrasion     
+level=4  	child=1  	corrida       	/	corridor      	/	corrigendum   	/	corroborator  
+level=4  	child=2  	corvette      	/	corvus        	/	cosmic        	/	cosmism       
+level=4  	child=3  	cosmonette    	/	cosovereignty 	/	cossack       	/	cossette      
+level=4  	child=4  	cotidal       	/	cottonize     	/	cottonseed    	/	cotyloid      
+level=3  	child=1  	counterappeal 	/	counterdeed   	/	counterfeiting	/	counterpose   
+level=4  	child=0  	coulter       	/	countability  	/	countdown     	/	counteraccusation
+level=4  	child=1  	counterattraction	/	counterblow   	/	countercoup   	/	counterdeclaration
+level=4  	child=2  	counterdrive  	/	counterdrug   	/	counterevidence	/	counterexample
+level=4  	child=3  	counterflow   	/	counterglow   	/	countermovement	/	counterpiston 
+level=4  	child=4  	counterpressure	/	counterpropaganda	/	counterproposal	/	counterpull   
+level=3  	child=2  	counterterror 	/	countless     	/	couteau       	/	cowardly      
+level=4  	child=0  	counterrevolution	/	countersea    	/	counterspy    	/	countertendency
+level=4  	child=1  	counterthrust 	/	countertide   	/	counterweigh  	/	counting      
+level=4  	child=2  	countryroad   	/	countrywide   	/	county        	/	courageously  
+level=4  	child=3  	covent        	/	coverage      	/	coverer       	/	covering      
+level=4  	child=4  	cowgirl       	/	cowheel       	/	cowherd       	/	cowled        
+level=3  	child=3  	craftiness    	/	craniad       	/	crashworthy   	/	crawly        	/	creatinuria   	/	creditability 	/	crenature     
+level=4  	child=0  	coxy          	/	cozen         	/	crabbery      	/	crabgrass     	/	crabman       	/	crackless     	/	cracksman     	/	craftily      
+level=4  	child=1  	crag          	/	cram          	/	cramoisy      	/	crane         
+level=4  	child=2  	craniate      	/	cranked       	/	crapy         	/	crashworthiness
+level=4  	child=3  	crassamentum  	/	crater        	/	craterwall    	/	craving       
+level=4  	child=4  	crayonist     	/	craze         	/	creamometer   	/	created       
+level=4  	child=5  	creationary   	/	creative      	/	credence      	/	credibility   
+level=4  	child=6  	creditable    	/	creditor      	/	credulous     	/	creed         	/	creese        	/	cremation     	/	crenation     
+level=4  	child=7  	crenelet      	/	creophagous   	/	creophagy     	/	crepehanger   
+level=3  	child=4  	cribble       	/	croaky        	/	crookback     	/	crossbowman   	/	crossword     	/	crud          	/	cruor         	/	cryogenic     
+level=4  	child=0  	cretinous     	/	cretonne      	/	crevette      	/	creviced      
+level=4  	child=1  	cribwork      	/	cricoid       	/	crikey        	/	criminological	/	crinoidea     	/	crispin       	/	critique      
+level=4  	child=2  	crocked       	/	crocodilian   	/	cromlech      	/	cronyism      
+level=4  	child=3  	crool         	/	crossarm      	/	crossbedded   	/	crossbow      
+level=4  	child=4  	crosslet      	/	crossrail     	/	crosstab      	/	crosstie      
+level=4  	child=5  	crossyard     	/	crownland     	/	crozier       	/	cruciform     
+level=4  	child=6  	cruet         	/	cruiser       	/	cruising      	/	crummy        
+level=4  	child=7  	cruse         	/	crushing      	/	crux          	/	cryochemistry 
+level=4  	child=8  	cryogenics    	/	cryolite      	/	cryophyte     	/	cryoprotective
+level=3  	child=5  	cryptogram    	/	crystallitis  	/	crystallography	/	cubature      
+level=4  	child=0  	cryosurgery   	/	cryotherapy   	/	cryptoclastic 	/	cryptogam     
+level=4  	child=1  	cryptosystem  	/	crystalline   	/	crystallite   	/	crystallitic  
+level=4  	child=2  	crystallizability	/	crystallizable	/	crystallization	/	crystallize   
+level=4  	child=3  	crytic        	/	ctenidium     	/	ctenophore    	/	cubanize      
+level=4  	child=4  	cubby         	/	cubicle       	/	cubiform      	/	cubism        
+level=3  	child=6  	cuffy         	/	culminate     	/	cultural      	/	cumulative    	/	cupola        	/	curb          	/	curlew        	/	curriculum    	/	cutty         
+level=4  	child=0  	cuchifrito    	/	cuculliform   	/	cucumiform    	/	cuddle        
+level=4  	child=1  	culicid       	/	culicine      	/	cull          	/	cullet        
+level=4  	child=2  	culmination   	/	culottes      	/	culprit       	/	cultch        
+level=4  	child=3  	culvert       	/	cumber        	/	cumquat       	/	cumulation    
+level=4  	child=4  	cumulocirrus  	/	cumulonimbus  	/	cumulostratus 	/	cuneal        	/	cuneate       	/	cuneatic      	/	cunner        	/	cupful        
+level=4  	child=5  	cupriferous   	/	cupronickel   	/	cuprum        	/	curatorial    
+level=4  	child=6  	curculio      	/	curdle        	/	curial        	/	curiously     
+level=4  	child=7  	curlpaper     	/	curlycue      	/	curricula     	/	curricular    
+level=4  	child=8  	cursor        	/	curt          	/	curtainfall   	/	cuttloefish   
+level=4  	child=9  	cyaneous      	/	cyanogen      	/	cyanogenetic  	/	cyanogenic    	/	cybernatic    	/	cybernation   	/	cybernetic    	/	cybernetical  

@@ -1,0 +1,7 @@
+\contentsline {section}{\numberline {1}插入排序代码}{1}{section.1}%
+\contentsline {section}{\numberline {2}merge排序代码}{1}{section.2}%
+\contentsline {section}{\numberline {3}寻找最优的k}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}f(n,k)表达式的推导}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}理论推导最优k}{3}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}实验寻找最优k}{3}{subsection.3.3}%
+\contentsline {section}{\numberline {4}融合后的排序代码}{5}{section.4}%
